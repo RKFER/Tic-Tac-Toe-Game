@@ -1,63 +1,72 @@
-body{
+body {
     background-color: #DFF8EB;
     text-align: center;
 }
 
-h1{
+h1 {
     font-weight: bolder;
-    font-family:cursive;
+    font-family: cursive;
     color: #214E34;
 }
-.container{
-    height:70vh;
+
+.container {
+    height: 70vh;
     display: flex;
     text-align: center;
     justify-content: center;
     gap: 1vmin;
 }
-.game{
-    height:60vmin;
+
+.game {
+    height: 60vmin;
     width: 60vmin;
     display: flex;
     text-align: center;
-    flex-wrap: wrap ;
+    flex-wrap: wrap;
     gap: 2.5vmin;
-    
+
 }
-.box{
-    height:18vmin;
-    width:18vmin;
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
     border-radius: 18px;
     font-size: 11vmin;
     color: #364156;
     background-color: #EFEDED;
 }
-#reset{
+
+#reset {
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #364156;
-    color:white ;
+    color: white;
     border-radius: 18px;
-    
+
 }
-#newGame{
+
+#newGame {
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #364156;
-    color:white ;
+    color: white;
     border-radius: 18px;
 }
-#msg{
+
+#msg {
     color: #214E34;
     font-size: 8vmin;
     font-family: cursive
 }
-button{
-        font-family: cursive;
+
+button {
+    font-family: cursive;
 }
-.message{
+
+.message {
     height: 30vmin;
 }
-.hide{
+
+.hide {
     display: none;
 }
