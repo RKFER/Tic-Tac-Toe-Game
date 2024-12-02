@@ -11,7 +11,7 @@ Lightweight and responsive for all screen sizes.
 
 Demo
 
-Live Demo (Replace with your hosted URL if available)
+https://rkfer.github.io/Tic-Tac-Toe-Game/
 
 How to Play
 
